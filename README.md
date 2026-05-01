@@ -120,7 +120,7 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 
 ## 📊 Estatísticas
 <p>
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=dracula&title_color=DA70D6&icon_color="7B2CBF"" />
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=dracula&title_color=DA70D6&icon_color=7B2CBF" />
 
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=dracula"/>
 </p>

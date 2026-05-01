@@ -119,15 +119,19 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 <br/>
 
 ## 📊 Estatísticas
-- STAR
-- TECNOLOGIAS
+<p>
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=dracula&title_color=DA70D6&icon_color="7B2CBF"" />
+
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=dracula"/>
+</p>
+
 ---
 
  <!-- Pacman -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ![Snake animation](https://github.com/BrunaSilva701/BrunaSilva701/blob/output/github-contribution-grid-snake.svg)

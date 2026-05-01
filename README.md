@@ -4,16 +4,26 @@
 
 Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e back-end utilizando JavaScript, TypeScript, Node.js, APIs REST e PostgreSQL. Tenho experiência prática na criação de aplicações web organizadas, funcionais e escaláveis, além de conhecimento em HTML, CSS, SQL, Git e metodologias ágeis. Busco aplicar boas práticas de desenvolvimento, priorizando código limpo e manutenção eficiente. Tenho grande interesse em back-end, arquitetura de sistemas e construção de aplicações completas, e me destaco pela organização, proatividade, curiosidade e facilidade de aprendizado, além de gostar de trabalhar em equipe e contribuir para soluções eficientes.
 
-
+---
+### 📱Contato
+<!-- Contatos -->
 <p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-freitasjob)
-
-[![E-Mail](https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:brunasilva.sms@gmail.com)
-
+    <a href="mailto:brunasilva.sms@gmail.com">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/bruna-freitasjob">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-freitasjob"
+        />
+    </a>
 </p>
-<!-- [![Portifolio de Design](https://img.shields.io/badge/Portifolio%20de%20Design-8AAEE0?style=for-the-badge&logo=figma&logoColor=white)](https://www.linkDoPortifolio)
-</p> -->
+
 
 ---
 
@@ -109,10 +119,56 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 <br/>
 
 ## 📊 Estatísticas
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Estatistica gitHub& locale=pt-br)
+### com div
+<div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true) -->
+<!-- githubStars -->
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+<!-- Lingaugem por repositorio -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=midnight_purple) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+<!-- linguagens por commit -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaSilva701&theme=midnight_purple) 
+
+</div>
+
+---
+
+### com p e img
+
+<p>
+  <img 
+    align="left" 
+    alt="lingaugens por commit" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaSilva701&theme=midnight_purple" 
+  />
+
+<img 
+      align="left" 
+      alt="Lingagens por repositorio" 
+      height="200" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=midnight_purple" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE" 
+  />
+</p>
+
+<br/>
+<br/>
+
+--- 
+
+ <!-- Pacman -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>

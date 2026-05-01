@@ -129,3 +129,5 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
 </picture>
+
+![Snake animation](https://github.com/BrunaSilva701/BrunaSilva701/blob/output/github-contribution-grid-snake.svg)

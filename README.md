@@ -1,4 +1,4 @@
-# 👩🏻‍💻Bruna Silva 
+# 👩🏻‍💻Bruna Freitas 
 
 **Desenvolvedora FullStack**
 

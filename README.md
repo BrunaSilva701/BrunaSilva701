@@ -119,54 +119,11 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 <br/>
 
 ## 📊 Estatísticas
-### com div
-<div>
-
-<!-- githubStars -->
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") 
-
-<!-- Lingaugem por repositorio -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=midnight_purple) 
-
-<!-- linguagens por commit -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaSilva701&theme=midnight_purple) 
-
-</div>
-
+- STAR
+- TECNOLOGIAS
 ---
 
-### com p e img
-
-<p>
-  <img 
-    align="left" 
-    alt="lingaugens por commit" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaSilva701&theme=midnight_purple" 
-  />
-
-<img 
-      align="left" 
-      alt="Lingagens por repositorio" 
-      height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=midnight_purple" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE" 
-  />
-</p>
-
-<br/>
-<br/>
-
---- 
-
  <!-- Pacman -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">

@@ -7,15 +7,17 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 
 <p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bruna-freitasjob)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-freitasjob)
 
+[![E-Mail](https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:brunasilva.sms@gmail.com)
+
+</p>
 <!-- [![Portifolio de Design](https://img.shields.io/badge/Portifolio%20de%20Design-8AAEE0?style=for-the-badge&logo=figma&logoColor=white)](https://www.linkDoPortifolio)
 </p> -->
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -107,23 +109,10 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 <br/>
 
 ## 📊 Estatísticas
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Estatistica gitHub& locale=pt-br)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true) -->
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-  
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)

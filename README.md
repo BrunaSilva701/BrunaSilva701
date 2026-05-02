@@ -133,9 +133,9 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 </p>
 
 <-- outro tipo -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunaSilva701&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&theme=dracula" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaSilva701&theme=dracula" />
+
 ---
 
  <!-- Pacman -->

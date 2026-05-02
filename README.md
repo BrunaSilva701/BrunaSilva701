@@ -123,10 +123,12 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=7B2CBF" />
 
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=midnight_purple"/>
+</p>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true"/>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut/>
+ <!-- Stars -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&layout=donut&theme=dracula" />
 </p>
 
 ---

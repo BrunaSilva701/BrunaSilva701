@@ -119,6 +119,7 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 <br/>
 
 ## 📊 Estatísticas
+<-- cards -->
 <p>
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&theme=midnight_purple&title_color=DA70D6&icon_color=7B2CBF" />
 
@@ -131,6 +132,10 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&layout=donut&theme=midnight_purple" />
 </p>
 
+<-- outro tipo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunaSilva701&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaSilva701&theme=dracula" />
 ---
 
  <!-- Pacman -->

@@ -126,11 +126,15 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 </p>
 
  <!-- Stars -->
-<p>
+
+ <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&layout=donut&theme=dracula" />
 </p>
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=dracula" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunaSilva701&layout=compact&theme=dracula" />
 ---
 
  <!-- Pacman -->

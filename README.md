@@ -129,10 +129,10 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 </p> 
 
  <!-- Stars (deploy pausado)-->
- <p>
+ <!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=midnight_purple" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&layout=donut&theme=midnight_purple" />
-</p>
+</p> -->
 
 ---
 

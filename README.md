@@ -110,7 +110,7 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
     align="left" 
     alt="salesforce" 
     title="salesforce"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;"
     src="https://devicon-website.vercel.app/api/salesforce/original.svg">
 <img>

@@ -120,21 +120,17 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
 
 ## 📊 Estatísticas
 <p>
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=7B2CBF" />
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaSilva701&theme=midnight_purple&title_color=DA70D6&icon_color=7B2CBF" />
 
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaSilva701&hide=Html&theme=midnight_purple"/>
-</p>
+</p> 
 
  <!-- Stars -->
-
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&layout=donut&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=midnight_purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSilva701&layout=donut&theme=midnight_purple" />
 </p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrunaSilva701&show_icons=true&theme=dracula" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunaSilva701&layout=compact&theme=dracula" />
 ---
 
  <!-- Pacman -->
@@ -144,4 +140,5 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e b
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
 </picture> -->
 
+ <!-- Cobrinha -->
 ![Snake animation](https://github.com/BrunaSilva701/BrunaSilva701/blob/output/github-contribution-grid-snake.svg)

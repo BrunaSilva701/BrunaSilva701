@@ -2,8 +2,7 @@
 
 **Desenvolvedora FullStack**
 
-Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e back-end utilizando JavaScript, TypeScript, Node.js, APIs REST e PostgreSQL. Tenho experiência prática na criação de aplicações web organizadas, funcionais e escaláveis, além de conhecimento em HTML, CSS, SQL, Git e metodologias ágeis. Busco aplicar boas práticas de desenvolvimento, priorizando código limpo e manutenção eficiente. Tenho grande interesse em back-end, arquitetura de sistemas e construção de aplicações completas, e me destaco pela organização, proatividade, curiosidade e facilidade de aprendizado, além de gostar de trabalhar em equipe e contribuir para soluções eficientes.
-
+Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web e back-end utilizando JavaScript, TypeScript, Node.js, APIs REST e PostgreSQL. Tenho experiência prática na criação de aplicações web organizadas, funcionais e escaláveis, além de conhecimento em HTML, CSS, SQL, Git e metodologias ágeis. Busco aplicar boas práticas de desenvolvimento, priorizando código limpo e manutenção eficiente. Tenho grande interesse em back-end, arquitetura de sistemas e construção de aplicações completas, além de atualmente estar desenvolvendo conhecimentos em salesforce.
 ---
 ### 📱Contato
 <!-- Contatos -->
